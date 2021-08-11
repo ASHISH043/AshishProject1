@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="welcome_to_convertex_converter">welcome to convertex converter</string>
+    <string name="curency">TODO</string>
+    <string name="get_inr_amount">get inr amount</string>
+    <string name="enter_your_amount">enter your $$ amount</string>
+</resources>
